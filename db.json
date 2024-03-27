@@ -13,10 +13,10 @@
   ],
   "favorites": [
     {
-    "id": 1,
-    "taskId": 2
+      "id": 1,
+      "taskId": 2
     }
-  ]
+  ],
   "tasks": [
     {
       "id": 1,
