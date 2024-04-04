@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Frost-Kissed Reverie",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "As winter descends upon the countryside, a nostalgic charm envelops the landscape. The air is crisp, and the world is blanketed in a soft, white silence. Vintage barns and cottages, their roofs dusted with snow, dot the scene, nestled amidst rolling hills and frost-covered fields. The sun sets in hues of pink and gold, casting a warm glow over the wintry tableau, while smoke gently curls from chimneys, hinting at cozy fires within. It's a scene straight out of a storybook, where time seems to slow down, and the beauty of the season is captured in every detail.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179759/1a2c32ea65030360ac24aa406345fead_s2jffg.jpg",
       "price": "90€",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "title": "Whispers of Winter's Past",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "In the heart of the winter countryside, a vintage landscape unfolds, capturing the essence of a simpler time. Snow-laden branches bow gracefully under the weight of Countryside, while quaint cottages with thatched roofs exude warmth amidst the cold. A winding path beckons wanderers to explore the quiet beauty of the countryside, where every corner holds a story waiting to be discovered.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179763/9027ae446964f77c355b607b269b5ef3_dxput0.jpg",
       "price": "95€",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "title": "Winter's Symphony",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "Beneath the vintage charm of the winter countryside, a symphony of nature unfolds. Trees stand bare against the cold, their branches swaying gently in the crisp air. Smoke rises from chimneys, adding a soft haze to the wintry landscape. The countryside is bathed in a serene light, casting long shadows across the frost-kissed fields. It's a tranquil tableau where the beauty of winter whispers through the quiet countryside.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179766/bfefb6d37efb696553b3d7dcca8939c3_se2nyt.jpg",
       "price": "85€",
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "title": "Winter's Tapestry",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "As winter weaves its delicate tapestry across the vintage countryside, a scene of quiet elegance unfolds. The landscape is bathed in the soft light of dawn, painting the snow-covered fields and leafless trees in shades of silver and blue. Quaint cottages with smoke curling from their chimneys dot the scene, their roofs dusted with snow. It's a moment frozen in time, where the beauty of winter intertwines seamlessly with the timeless charm of the countryside, creating a painting that captures the imagination and soothes the soul.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179761/067dfe3c30e6a3a754b23d1b32d84d12_orelwg.jpg",
       "price": "110€",
@@ -74,7 +74,7 @@
     {
       "id": 8,
       "title": "Winter's Whisper",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "Amidst the vintage charm of the countryside, winter paints a serene scene of frozen ponds and snow-covered fields. Rustic barns stand stoically against the backdrop of frosted trees, casting long shadows in the pale winter sunlight.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712180071/7aa2dabcec32f880aa14ec2fdedd12ba_fa4k9g.jpg",
       "price": "80€",
@@ -84,7 +84,7 @@
     {
       "id": 9,
       "title": "Tranquil Frost",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "Within the vintage allure of the winter countryside, a tranquil scene unravels, reminiscent of a bygone era. Draped in a blanket of pristine snow, the landscape exudes a serene beauty. Old-fashioned cottages, their roofs laden with snow, peek out from behind frosted trees. A winding path meanders through the countryside, inviting solitary walks amidst the hushed stillness. Each detail, from the delicate frost on the branches to the soft glow of lamplight in distant windows, tells a story of winter's quiet magnificence in the vintage countryside.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179767/b776eab19995b6f0b8ecefe7d91f8c9a_dsga5b.jpg",
       "price": "95€",
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "title": "Nostalgic Snowfall",
-      "category": "Countryside",
+      "category": "Vintage Countryside",
       "description": "In the vintage countryside, winter brings forth a nostalgic snowfall, blanketing the landscape in a soft, white embrace. Old stone fences peek out from beneath the pristine snow, while quaint cottages with smoke curling from their chimneys exude warmth amidst the cold. Every snowflake that falls seems to carry with it memories of winters past, evoking a sense of nostalgia and wonder.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179763/9027ae446964f77c355b607b269b5ef3_dxput0.jpg",
       "price": "85€",
