@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Frost-Kissed Reverie",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "As winter descends upon the countryside, a nostalgic charm envelops the landscape. The air is crisp, and the world is blanketed in a soft, white silence. Vintage barns and cottages, their roofs dusted with snow, dot the scene, nestled amidst rolling hills and frost-covered fields. The sun sets in hues of pink and gold, casting a warm glow over the wintry tableau, while smoke gently curls from chimneys, hinting at cozy fires within. It's a scene straight out of a storybook, where time seems to slow down, and the beauty of the season is captured in every detail.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179759/1a2c32ea65030360ac24aa406345fead_s2jffg.jpg",
       "price": "90€",
@@ -33,8 +33,8 @@
     {
       "id": 4,
       "title": "Whispers of Winter's Past",
-      "category": "Winter's Embrace",
-      "description": "In the heart of the winter countryside, a vintage landscape unfolds, capturing the essence of a simpler time. Snow-laden branches bow gracefully under the weight of winter's embrace, while quaint cottages with thatched roofs exude warmth amidst the cold. A winding path beckons wanderers to explore the quiet beauty of the countryside, where every corner holds a story waiting to be discovered.",
+      "category": "Countryside",
+      "description": "In the heart of the winter countryside, a vintage landscape unfolds, capturing the essence of a simpler time. Snow-laden branches bow gracefully under the weight of Countryside, while quaint cottages with thatched roofs exude warmth amidst the cold. A winding path beckons wanderers to explore the quiet beauty of the countryside, where every corner holds a story waiting to be discovered.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179763/9027ae446964f77c355b607b269b5ef3_dxput0.jpg",
       "price": "95€",
       "type": "Print",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "title": "Winter's Symphony",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "Beneath the vintage charm of the winter countryside, a symphony of nature unfolds. Trees stand bare against the cold, their branches swaying gently in the crisp air. Smoke rises from chimneys, adding a soft haze to the wintry landscape. The countryside is bathed in a serene light, casting long shadows across the frost-kissed fields. It's a tranquil tableau where the beauty of winter whispers through the quiet countryside.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179766/bfefb6d37efb696553b3d7dcca8939c3_se2nyt.jpg",
       "price": "85€",
@@ -54,7 +54,7 @@
     {
       "id": 6,
       "title": "Enchanted Winter Haven",
-      "category": "Winter's Embrace",
+      "category": "Vintage Countryside",
       "description": "Nestled within the vintage embrace of the countryside, winter casts its enchanting spell, turning the landscape into a scene straight out of a fairy tale. Snow blankets the rolling hills and ancient stone walls, transforming them into a winter wonderland. Quaint cottages with thatched roofs peek out from behind frosted trees, their windows glowing warmly against the cold. A sense of tranquility permeates the air, inviting visitors to step into this enchanted winter haven and lose themselves in its timeless beauty.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179767/b776eab19995b6f0b8ecefe7d91f8c9a_dsga5b.jpg",
       "price": "100€",
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "title": "Winter's Tapestry",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "As winter weaves its delicate tapestry across the vintage countryside, a scene of quiet elegance unfolds. The landscape is bathed in the soft light of dawn, painting the snow-covered fields and leafless trees in shades of silver and blue. Quaint cottages with smoke curling from their chimneys dot the scene, their roofs dusted with snow. It's a moment frozen in time, where the beauty of winter intertwines seamlessly with the timeless charm of the countryside, creating a painting that captures the imagination and soothes the soul.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179761/067dfe3c30e6a3a754b23d1b32d84d12_orelwg.jpg",
       "price": "110€",
@@ -74,7 +74,7 @@
     {
       "id": 8,
       "title": "Winter's Whisper",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "Amidst the vintage charm of the countryside, winter paints a serene scene of frozen ponds and snow-covered fields. Rustic barns stand stoically against the backdrop of frosted trees, casting long shadows in the pale winter sunlight.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712180071/7aa2dabcec32f880aa14ec2fdedd12ba_fa4k9g.jpg",
       "price": "80€",
@@ -84,7 +84,7 @@
     {
       "id": 9,
       "title": "Tranquil Frost",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "Within the vintage allure of the winter countryside, a tranquil scene unravels, reminiscent of a bygone era. Draped in a blanket of pristine snow, the landscape exudes a serene beauty. Old-fashioned cottages, their roofs laden with snow, peek out from behind frosted trees. A winding path meanders through the countryside, inviting solitary walks amidst the hushed stillness. Each detail, from the delicate frost on the branches to the soft glow of lamplight in distant windows, tells a story of winter's quiet magnificence in the vintage countryside.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179767/b776eab19995b6f0b8ecefe7d91f8c9a_dsga5b.jpg",
       "price": "95€",
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "title": "Nostalgic Snowfall",
-      "category": "Winter's Embrace",
+      "category": "Countryside",
       "description": "In the vintage countryside, winter brings forth a nostalgic snowfall, blanketing the landscape in a soft, white embrace. Old stone fences peek out from beneath the pristine snow, while quaint cottages with smoke curling from their chimneys exude warmth amidst the cold. Every snowflake that falls seems to carry with it memories of winters past, evoking a sense of nostalgia and wonder.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712179763/9027ae446964f77c355b607b269b5ef3_dxput0.jpg",
       "price": "85€",
@@ -258,6 +258,146 @@
       "description": "As the sun rises over the horizon, 'Sunrise Reflections' paints a scene of serenity and renewal. The sky is awash in soft pastel hues, reflecting off the calm surface of the ocean below. Rays of sunlight break through the clouds, casting a golden glow over the tranquil scene. It's a moment of quiet contemplation and renewal, where the beauty of the sunrise mirrors the promise of a new day.",
       "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712181723/7a9f6fb5b9c18e7fa168ab05cd8496cf_ji9d1k.jpg",
       "price": "115€",
+      "type": "Print",
+      "quantity": 16
+    },
+    {
+      "id": 27,
+      "title": "Tranquil Tide",
+      "category": "Ocean Therapy",
+      "description": "In the gentle ebb and flow of the tide, 'Tranquil Tide' captures the soothing rhythm of the ocean. Soft waves lap against the sandy shore, their gentle motion creating a sense of peace and serenity. The sky above is painted in hues of blue and pink, reflecting off the calm surface of the water. It's a moment of quiet contemplation, where the beauty of the ocean invites you to unwind and find solace in its embrace.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226233/1ef00a84469f31fa69b8f4c9cf12378c_vrq608.jpg",
+      "price": "110€",
+      "type": "Print",
+      "quantity": 18
+    },
+    {
+      "id": 28,
+      "title": "Winged Serenity",
+      "category": "Ocean Therapy",
+      "description": "Amidst the tranquil expanse of the ocean, 'Winged Serenity' showcases the graceful beauty of seabirds soaring overhead. Soft pastel hues adorn the sky, creating a backdrop of serene tranquility. The birds glide effortlessly on the ocean breeze, their wings outstretched as they dance across the horizon. It's a scene of timeless elegance, where the harmony of nature unfolds before your eyes.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712178004/a45ceafc74b56c72afc7d89a68ca8246_jwcjgc.jpg",
+      "price": "115€",
+      "type": "Print",
+      "quantity": 16
+    },
+    {
+      "id": 29,
+      "title": "Twilight Peaks",
+      "category": "Alpine Majesty",
+      "description": "As the sun dips below the horizon, 'Twilight Peaks' unveils a mesmerizing scene of mountains bathed in shades of sunset orange and purple. The rugged peaks stand silhouetted against the colorful sky, their jagged outlines creating a striking contrast against the fading light. It's a moment of tranquil beauty, where the magic of twilight transforms the alpine landscape into a breathtaking work of art.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226616/0b768527f7b120e8b191313b1687cdf8_llji9c.jpg",
+      "price": "125€",
+      "type": "Print",
+      "quantity": 16
+    },
+    {
+      "id": 30,
+      "title": "Majestic Peaks",
+      "category": "Alpine Majesty",
+      "description": "'Majestic Peaks' invites you to journey into the heart of the mountains, where towering peaks reach towards the sky. Bathed in golden sunlight, the rugged landscape exudes an aura of timeless grandeur. As you gaze upon the snow-capped summits, you can't help but feel a sense of awe and reverence for the majestic beauty of the alpine wilderness.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226456/4d59752f311503cde9a7155a8142735b_gsartz.jpg",
+      "price": "120€",
+      "type": "Print",
+      "quantity": 20
+    },
+    {
+      "id": 31,
+      "title": "Eternal Solitude",
+      "category": "Alpine Majesty",
+      "description": "In the heart of the mountains lies a place of 'Eternal Solitude.' Surrounded by towering peaks and dense forests, this secluded valley offers a sanctuary from the hustle and bustle of everyday life. Here, the only sound is the whisper of the wind through the trees and the gentle rush of a nearby stream. It's a place where time seems to stand still, allowing you to reconnect with nature and find peace in its embrace.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226515/24a1b7ff1243b91bdf16c470c4f48c1d_aacn6y.jpg",
+      "price": "110€",
+      "type": "Print",
+      "quantity": 18
+    },
+    {
+      "id": 32,
+      "title": "Sunlit Summit",
+      "category": "Alpine Majesty",
+      "description": "Atop a 'Sunlit Summit,' the world unfolds in all its breathtaking glory. Bathed in the warm glow of the sun, the mountain peak offers panoramic views of the surrounding landscape. As you stand on the summit, you feel a sense of exhilaration and freedom, as if you're on top of the world. It's a moment to savor, a reminder of the boundless beauty and majesty of the mountains.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226573/589f19b963220cd62c2117def6e888e5_alkqa5.jpg",
+      "price": "130€",
+      "type": "Print",
+      "quantity": 15
+    },
+    {
+      "id": 33,
+      "title": "Alpine Reflections",
+      "category": "Alpine Majesty",
+      "description": "In the tranquil waters of a mountain lake, 'Alpine Reflections' captures the beauty of the surrounding peaks mirrored in the crystal-clear water. As the sun dips below the horizon, the sky is painted in hues of pink and orange, casting a warm glow over the landscape. It's a scene of serene beauty and quiet contemplation, where the mountains seem to touch the sky and the water holds the secrets of the natural world.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226508/70b71114a4074364a6412d205a551e39_jtgzd7.jpg",
+      "price": "125€",
+      "type": "Print",
+      "quantity": 16
+    },
+    {
+      "id": 34,
+      "title": "Tuscan Twilight",
+      "category": "Alpine Majesty",
+      "description": "As the sun sets over the Tuscan countryside, 'Tuscan Twilight' unveils a scene of unparalleled beauty. Fields of flowers in shades of pink and orange stretch as far as the eye can see, their vibrant colors illuminated by the fading light. Towering cypress trees stand sentinel against the horizon, while majestic mountains rise in the distance, their peaks tinged with the last rays of sunlight. It's a moment of tranquil majesty, where the timeless beauty of Tuscany unfolds before your eyes.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712226624/38a5be6c0238431ce6938bc623f89781_l5d4m7.jpg",
+      "price": "135€",
+      "type": "Print",
+      "quantity": 14
+    },
+    {
+      "id": 35,
+      "title": "Twilight Reflections",
+      "category": "Riverside Reverie",
+      "description": "As the day fades into twilight, 'Twilight Reflections' paints a serene scene along the riverbank. A purple sky stretches overhead, while the orange sun dips below the horizon, casting its fiery glow upon the water's surface. The tranquil river reflects the vibrant colors of the sunset, creating a mesmerizing display of nature's beauty. It's a moment of peaceful contemplation, where the world seems to stand still in awe of the evening's splendor.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227080/2ae20c9af1e8fa137c080991efb4e1be_mhxezd.jpg",
+      "price": "120€",
+      "type": "Print",
+      "quantity": 20
+    },
+    {
+      "id": 36,
+      "title": "Camargue Tranquility",
+      "category": "Riverside Reverie",
+      "description": "In the heart of the Camargue, 'Camargue Tranquility' invites you to immerse yourself in the serene beauty of this unique landscape. Tall grasses sway gently in the breeze, their verdant green hues mirrored in the tranquil waters of the river. The sun hangs high in the sky, casting its warm rays upon the scene below. It's a moment of quiet serenity, where nature's beauty takes center stage.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227120/498bee65da55a510abaf1830722618e6_m7l2ej.jpg",
+      "price": "110€",
+      "type": "Print",
+      "quantity": 18
+    },
+    {
+      "id": 37,
+      "title": "Forest River Serenade",
+      "category": "Riverside Reverie",
+      "description": "Nestled within a forest, 'Forest River Serenade' captures the tranquil beauty of a river winding its way through the trees. Towering pine trees line the riverbanks, their emerald green needles contrasting against the crystal-clear water. Smooth rocks dot the riverbed, adding to the peaceful ambiance of the scene. It's a place of natural harmony, where the soothing sounds of the river blend seamlessly with the whisper of the wind through the trees.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227143/9704d618c0c7aa2ba57fdd9ceffd5c58_ic33lk.jpg",
+      "price": "115€",
+      "type": "Print",
+      "quantity": 16
+    },
+    {
+      "id": 38,
+      "title": "Cascade Calm",
+      "category": "Riverside Reverie",
+      "description": "Amidst a lush forest, 'Cascade Calm' reveals the serene beauty of a river cascading over smooth rocks. Tall trees frame the scene, their leaves rustling in the gentle breeze. The sound of the waterfall fills the air, blending with the chorus of birdsong to create a symphony of nature's tranquility. It's a place of quiet contemplation, where the rhythm of the river soothes the soul.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227172/a44d26112354d71cd82ff300436a1572_josc7n.jpg",
+      "price": "125€",
+      "type": "Print",
+      "quantity": 14
+    },
+    {
+      "id": 39,
+      "title": "Sunset Silhouette",
+      "category": "Riverside Reverie",
+      "description": "As the sun sets behind the mountains, 'Sunset Silhouette' casts a breathtaking scene along the riverbank. The sky is painted in hues of pink and orange, reflecting off the tranquil waters below. Majestic mountains stand sentinel in the distance, their rugged silhouettes adding to the drama of the sunset. It's a moment of tranquil beauty, where the river reflects the splendor of the evening sky.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227191/aa4198a9e5f58d06a089fd6bf2543713_tocgl3.jpg",
+      "price": "130€",
+      "type": "Print",
+      "quantity": 15
+    },
+    {
+      "id": 40,
+      "title": "Sunrise Serenity",
+      "category": "Riverside Reverie",
+      "description": "As the sun rises over the horizon, 'Sunrise Serenity' paints a scene of tranquil beauty along the riverbanks. The first light of dawn reflects off the calm waters, casting a warm glow over the surrounding landscape. Tall grasses sway gently in the morning breeze, adding to the sense of serenity and calm. It's a moment of quiet contemplation, where the beauty of the sunrise fills the heart with peace.",
+      "image": "https://res.cloudinary.com/djiyytmot/image/upload/v1712227213/d4101fdd7c32e815c1e2d79a87972568_gpue98.jpg",
+      "price": "135€",
       "type": "Print",
       "quantity": 16
     }
